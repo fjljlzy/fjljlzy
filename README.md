@@ -30,6 +30,6 @@ Here are some ideas to get you started:
 
 - 正在HKUST读书的学生 🏆
 - 熟悉 Python 🐍, NLP 🤔, 编程题 💻
-- 有啥问啥，可以通过下方链接联系我 🪄
+- 可以通过下方链接联系我 🪄
 - 电邮：fjljlzy@163.com ✉️
 - 个人主页：[zeyinlin.github.io](https://fjljlzy.github.io/zeyinlin.github.io/)
