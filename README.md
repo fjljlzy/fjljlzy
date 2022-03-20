@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 
 <!-- <img style="width: 50%" align="right" src="https://github-readme-stats.vercel.app/api?username=haixiangyan&show_icons=true&hide_border=true&theme=vue-dark" /> -->
 
-哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是阿泽.
+哈喽，<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 我是阿泽
 
 - 正在HKUST读书的学生 🏆
 - 熟悉 Python 🐍, NLP 🤔, 编程题 💻
