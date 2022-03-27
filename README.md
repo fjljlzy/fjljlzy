@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 * ✍️ DDM, ML, DL, NLP
 * 🔨 造轮子系列，手打各类算法、模型
-* 🎓 申请NLP方向的Phd
+* 🎓 申请ML, NLP方向的PhD
 * 🐧 寻找暑期实习
 
 ## 🐼 我
